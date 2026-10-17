@@ -8,6 +8,16 @@
 
 > ⚠️ Перевод выполнен с помощью ИИ (Claude) и проверен на целостность логики игры, но **не вычитан носителем языка полностью**. Опечатки и неловкие фразы возможны — пожалуйста, сообщайте о них в [Issues](../../issues).
 
+## Скриншоты
+
+| | |
+|---|---|
+| ![Титульный экран](screenshots/title.jpg) | ![Газета](screenshots/newspaper.jpg) |
+| ![Карта корабля](screenshots/map.jpg) | ![Диалог](screenshots/dialogue.jpg) |
+| ![Выбор реплики](screenshots/choices.jpg) | ![Настройки: язык Spanish](screenshots/settings.jpg) |
+
+Заголовки PAUSED / SETTINGS и название языка в меню пока остались на английском.
+
 ## Требования
 
 - Nintendo Switch с кастомной прошивкой **Atmosphère** (используется LayeredFS).
